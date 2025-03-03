@@ -1,9 +1,8 @@
 {
   "name": "poc",
-  "description": "��#\u0000 \u0000p\u0000o\u0000c\u0000\r\u0000 \u0000",
+  "description": "To do list backend using node.js",
   "version": "1.0.0",
   "main": "server.js",
-  "devDependencies": {},
   "author": "Sourav karmakar",
   "license": "ISC",
   "scripts": {
@@ -20,5 +19,6 @@
     "nodemon": "^3.1.9",
     "sequelize": "^6.37.5",
     "uuid": "^11.1.0"
-  }
+  },
+  "devDependencies": {}
 }
